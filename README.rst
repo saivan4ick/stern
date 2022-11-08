@@ -1,3 +1,5 @@
+|AppVeyorBuild| |PyPiVersion| |PyPiLicense|
+|Python3| |GithubCommits| |LGTMAlerts| |LGTMGradePython| |LGTMGradeC| |BlackFormatBadge|
 stern is a free and open-source library by developer saivan
 
 Installation
