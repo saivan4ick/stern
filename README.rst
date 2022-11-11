@@ -19,7 +19,7 @@ Support
 -------
 
 If you are having issues, please let us know.
-We have a mailing list located at: `vasilsalkou@gmail.com` with subject as `chat-suggestions`
+We have a mailing list located at: vasilsalkou@gmail.com with subject as stern
 Building From Source
 --------------------
 If you want to use features that are currently in development, or you want to contribute to stern, you will need to build stern locally from its source code, rather than pip installing it.
