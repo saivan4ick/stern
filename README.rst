@@ -10,7 +10,16 @@ Help
 If you are just getting started with stern, you should be able to get started fairly quickly. 
 
 The online documentation stays up to date with the development version of stern on github. This may be a bit newer than the version of stern you are using. To upgrade to the latest full release, run pip install stern --upgrade in your terminal.
+Contribute
+----------
 
+- Issue Tracker: github.com/VasilSalkov/stern/issues
+- Source Code: github.com/VasilSalkov/stern
+Support
+-------
+
+If you are having issues, please let us know.
+We have a mailing list located at: `vasilsalkou@gmail.com` with subject as `chat-suggestions`
 Building From Source
 --------------------
 If you want to use features that are currently in development, or you want to contribute to stern, you will need to build stern locally from its source code, rather than pip installing it.
