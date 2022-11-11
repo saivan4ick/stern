@@ -10,6 +10,7 @@ Help
 If you are just getting started with stern, you should be able to get started fairly quickly. 
 
 The online documentation stays up to date with the development version of stern on github. This may be a bit newer than the version of stern you are using. To upgrade to the latest full release, run pip install stern --upgrade in your terminal.
+
 Contribute
 ----------
 
