@@ -13,13 +13,14 @@ The online documentation stays up to date with the development version of stern 
 Contribute
 ----------
 
-- Issue Tracker: github.com/VasilSalkov/stern/issues
-- Source Code: github.com/VasilSalkov/stern
+- Issue Tracker: https://github.com/VasilSalkov/stern/issues
+- Source Code: https://github.com/VasilSalkov/stern
 Support
 -------
 
 If you are having issues, please let us know.
-We have a mailing list located at: vasilsalkou@gmail.com with subject as stern
+We have a mailing list located at: vasilsalkou@gmail.com with subject as stern.
+
 Building From Source
 --------------------
 If you want to use features that are currently in development, or you want to contribute to stern, you will need to build stern locally from its source code, rather than pip installing it.
