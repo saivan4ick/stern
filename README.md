@@ -27,6 +27,37 @@ def SealN():
     print(string * n)
 SealN()
 ```
+
+Flip the line to the other side:
+```Python
+import stern
+def flip():
+    a = "stern"
+    print(a[::-1])
+flip()
+```
+
+Moving x and y:
+```Python
+import stern
+def IPS():
+    x = 91
+    y = 56
+    print(x,y)
+    x, y = y, x
+    print(x,y)
+IPS()
+```
+
+Case of Letters:
+```Python
+import stern
+def letters():
+    s = "sTeRn"
+    print(s.lower())
+    print(s.upper())
+letters()
+```
 # Help
 If you are just getting started with stern, you should be able to get started fairly quickly. 
 
