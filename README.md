@@ -9,6 +9,23 @@ stern is a free and open-source library by developer saivan
 
 `pip install stern`
 
+# Examples Programs
+Computing the difference between creation Python and PyPI:
+```Python
+import stern
+def sumAB(a,b):
+    return a - b
+print(sumAB(2003, 1991))
+```
+Written five times ***Hello beautiful world of programming!***:
+```Python
+import stern
+def SealN():
+    n=5
+    string="Hello beautiful world of programming! "
+    print(string * n)
+SealN()
+```
 # Help
 If you are just getting started with stern, you should be able to get started fairly quickly. 
 
