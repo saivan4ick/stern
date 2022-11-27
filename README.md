@@ -1,3 +1,4 @@
+![stern](https://raw.githubusercontent.com/VasilSalkov/stern/main/images/stern-logo.png "0px")
 ![pypi](https://img.shields.io/pypi/v/stern "Орк")
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/stern?color=green&label=pip%20downloads)
 ![PyPI - License](https://img.shields.io/pypi/l/stern)
