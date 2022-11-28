@@ -79,6 +79,44 @@ def unique():
         print("The list is NOT unique")
 unique()
 ```
+
+For Else construct:
+```Python
+import stern
+def forelse():
+    numbers = [2,4,6,8,1]
+    for number in numbers:
+        if number % 2 == 1:
+            print(number)
+            break
+        else:
+            print("No odd numbers")
+forelse()
+```
+
+Difference between == u is:
+```Python
+import stern
+def difference():
+    first = [1,2,3]
+    second = [1,2,3]
+    print(first == second)
+    print(first is second)
+    third = first
+    print(first is third)
+difference()
+```
+
+Removing duplicates:
+```Python
+import stern
+def duplicates():
+    list_numbers = [20,22,24,26,28,28,20,30,24]
+    print('Before:',list_numbers)
+    list_numbers = list(set(list_numbers))
+    print('After:',list_numbers)
+duplicates()
+```
 # Help
 If you are just getting started with stern, you should be able to get started fairly quickly. 
 
