@@ -58,6 +58,27 @@ def letters():
     print(s.upper())
 letters()
 ```
+
+Spelling a word:
+```Python
+import stern
+def listletters():
+    s = "stern"
+    print(list(s))
+listletters()
+```
+
+Unique or NOT unique list:
+```Python
+import stern
+def unique():
+    x = [1,9,9,1]
+    if(len(x) == len(set(x))):
+        print("The list is unique")
+    else:
+        print("The list is NOT unique")
+unique()
+```
 # Help
 If you are just getting started with stern, you should be able to get started fairly quickly. 
 
