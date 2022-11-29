@@ -138,4 +138,5 @@ This is how you help the stern module learn and achieve new technologies and fea
 
 # License
 This library is distributed under GNU LGPL version 3.0, which can be found in the file `LICENSE`. We reserve the right to place future versions of this library under a different license. This basically means you can use stern in any project you want, but if you make any changes or additions to stern itself, those must be released with a compatible license (preferably submitted back to the stern project).
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 <h1 align="middle" style="font-size: 72px;">I 💖⚙️ STERN</h1>
