@@ -118,6 +118,26 @@ def duplicates():
     print('After:',list_numbers)
 duplicates()
 ```
+
+Exchanging Values with Tuples:
+```Python
+import stern
+def EVT():
+    a, b = 1, 2
+    print(a, b)
+    a, b = b, a
+    print(a, b)
+EVT()
+```
+
+String Concatenation:
+```Python
+import stern
+def StringConcatenation():
+    a = ["stern", "-", "is good", "module."]
+    print(" ".join(a))
+StringConcatenation()
+```
 # Help
 If you are just getting started with stern, you should be able to get started fairly quickly. 
 
