@@ -138,6 +138,17 @@ def StringConcatenation():
     print(" ".join(a))
 StringConcatenation()
 ```
+
+Dictionary and set generators:
+```Python
+import stern
+def DictionaryGenerators():
+    S = {i**2 for i in range(10)}
+    D = {i: i**2 for i in range(10)}
+    print(S)
+    print(D)
+DictionaryGenerators()
+```
 # Help
 If you are just getting started with stern, you should be able to get started fairly quickly. 
 
