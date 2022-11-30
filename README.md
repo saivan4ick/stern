@@ -136,6 +136,6 @@ If you want to use features that are currently in development, or you want to co
 Installing from source is fairly automated. The most work will involve compiling and installing all the stern dependencies. Once that is done, run the ```setup.py``` script which will attempt to auto-configure, build, and install stern.
 
 # License
-This library is distributed under GNU General Public License v3.0, which can be found in the file `LICENSE`. We reserve the right to place future versions of this library under a different license. This basically means you can use stern in any project you want, but if you make any changes or additions to stern itself, those must be released with a compatible license (preferably submitted back to the stern project).
+This library is distributed under [GNU General Public License v3.0](https://github.com/VasilSalkov/stern/blob/main/LICENSE), which can be found in the file `LICENSE`. We reserve the right to place future versions of this library under a different license. This basically means you can use stern in any project you want, but if you make any changes or additions to stern itself, those must be released with a compatible license (preferably submitted back to the stern project).
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 <h1 align="middle" style="font-size: 72px;">I 💖⚙️ STERN</h1>
