@@ -149,6 +149,24 @@ def DictionaryGenerators():
     print(D)
 DictionaryGenerators()
 ```
+
+Output with print:
+```Python
+import stern
+def Output():
+    for part in ["stern ", "is ", "good", "\n"]:
+        print(part, end='')
+Output()
+```
+
+Finding the Most Duplicate Items in a List:
+```Python
+import stern
+def FMDIL():
+    a = [1, 2, 3, 1, 2, 3, 2, 2, 4, 5, 1]
+    print(max(set(a), key=a.count))
+FMDIL()
+```
 # Help
 If you are just getting started with stern, you should be able to get started fairly quickly. 
 
