@@ -133,9 +133,7 @@ If you are having issues, please let us know. We have a mailing list located at:
 # Building From Source
 If you want to use features that are currently in development, or you want to contribute to stern, you will need to build stern locally from its source code, rather than pip installing it.
 
-Installing from source is fairly automated. The most work will involve compiling and installing all the stern dependencies. Once that is done, run the setup.py script which will attempt to auto-configure, build, and install stern.
-
-This is how you help the stern module learn and achieve new technologies and features of the Python programming language.
+Installing from source is fairly automated. The most work will involve compiling and installing all the stern dependencies. Once that is done, run the ```setup.py``` script which will attempt to auto-configure, build, and install stern.
 
 # License
 This library is distributed under GNU LGPL version 3.0, which can be found in the file `LICENSE`. We reserve the right to place future versions of this library under a different license. This basically means you can use stern in any project you want, but if you make any changes or additions to stern itself, those must be released with a compatible license (preferably submitted back to the stern project).
