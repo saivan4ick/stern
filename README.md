@@ -167,6 +167,18 @@ def FMDIL():
     print(max(set(a), key=a.count))
 FMDIL()
 ```
+
+Kwargs:
+```Python
+import stern
+def Kwargs():
+    dictionary = {"a": 1, "b": 2}
+    def some_function(a, b):
+        print(a + b)
+        return
+    some_function(**dictionary)
+    some_function(a=1, b=2)
+```
 # Help
 If you are just getting started with stern, you should be able to get started fairly quickly. 
 
