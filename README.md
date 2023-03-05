@@ -4,8 +4,8 @@
 ![PyPI - License](https://img.shields.io/pypi/l/stern)
 ![Total lines](https://img.shields.io/tokei/lines/github.com/tomschimansky/stern?color=green&label=total%20lines)
 # stern
-### stern is a free and open-source library by developer saivan
-### We need your help to make stern the best it can be! New contributors are welcome.
+stern is a free and open-source library by developer saivan
+We need your help to make stern the best it can be! New contributors are welcome.
 
 # Installation
 
